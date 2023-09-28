@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200" height="200">
+  <img src="https://github.com/Subhadip-Hazra/Subhadip-Hazra/blob/main/github-header-image.png" alt="Profile Image" width="200" height="200">
 </p>
 
 <h1 align="center">Hello, I'm YOUR_NAME 🚀</h1>
