@@ -1,7 +1,7 @@
 <!-- Animated GIF -->
 <!-- Animated GIF with Box Shadow and White Border -->
 <p align="center" style="box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.6); border: 4px solid #fff; border-radius:15px;">
-  <img align='center' height='490px' width='100%' alt='coding' src='https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif'>
+  <img align='center' height='60%' width='100%' alt='coding' src='https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif'>
 </p>
 
 <!-- Rest of the README content remains unchanged -->
