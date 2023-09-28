@@ -1,34 +1,61 @@
-![logo](hazra.png)
-<h1 align="center">Hi 👋, I'm Subhadip Hazra</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadip-hazra&label=Profile%20views&color=0e75b6&style=flat" alt="subhadip-hazra" /> </p>
-
-- 🔭 I’m currently working on **E-Learning Website**
-
-- 🌱 I’m currently learning **Data Science, Machine Learning**
-
-- 💬 Ask me about **HTML,CSS,JS,Node.js etc.**
-
-- 📫 How to reach me **subhadiphazra129@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1OzIEeIvphKhPVNwqtjSpBUIGpJDThdIY?usp=sharing](https://drive.google.com/drive/folders/1OzIEeIvphKhPVNwqtjSpBUIGpJDThdIY?usp=sharing)
-
-- ⚡ Fun fact **Sometime, I smile very loud..😊😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhadiphazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadiphazra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/subhadip03031996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhadip03031996" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/iamhazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/iamhazra" height="30" width="40" /></a>
+<!-- Header Section -->
+<p align="center">
+  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200" height="200">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h1 align="center">Hello, I'm YOUR_NAME 🚀</h1>
+<h3 align="center">Crafting Digital Experiences | Full-Stack Sorcerer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadip-hazra&show_icons=true&locale=en&layout=compact" alt="subhadip-hazra" /></p>
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-brightgreen" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Magic-Writing_Elegant_Code-blueviolet" alt="Magic Badge">
+  <img src="https://img.shields.io/badge/Tools-React,_Node.js,_Express,_MongoDB-orange" alt="Tools Badge">
+  <img src="https://img.shields.io/badge/Superpowers-Coffee_Code,_Debugging_Wizardry-yellow" alt="Superpowers Badge">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadip-hazra&show_icons=true&locale=en" alt="subhadip-hazra" /></p>
+<!-- About Me Section -->
+<p align="center">
+  Welcome to my magical corner of the internet! I'm on a quest to build extraordinary things with code, blending innovation and a touch of wizardry. When not coding, you'll find me sipping on coffee and exploring the realms of tech.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-hazra&" alt="subhadip-hazra" /></p>
+<!-- Tech Stack Section -->
+<h3 align="center">My Spell Book 📜</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-ReactJS-blue" alt="ReactJS Badge">
+  <img src="https://img.shields.io/badge/Backend-Node.js,_Express-green" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Database-MongoDB,_MySQL-yellow" alt="MongoDB Badge">
+  <img src="https://img.shields.io/badge/Languages-JavaScript,_Python,_HTML,_CSS-orange" alt="Languages Badge">
+</p>
+
+<!-- Projects Section -->
+<h3 align="center">Featured Spells 🪄</h3>
+<p align="center">
+  <a href="PROJECT_1_LINK"><strong>Project 1:</strong> Project Name</a><br>
+  <a href="PROJECT_2_LINK"><strong>Project 2:</strong> Project Name</a><br>
+  <!-- Add more projects as needed -->
+</p>
+
+<!-- Skills Section -->
+<h3 align="center">Enchantments & Potions 🌟</h3>
+<p align="center">
+  JavaScript | React | Node.js | Express | MongoDB | HTML | CSS | Git
+</p>
+
+<!-- Let's Connect Section -->
+<h3 align="center">Let's Conjure Together! 🧙‍♂️</h3>
+<p align="center">
+  <a href="YOUR_LINKEDIN_PROFILE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"></a>
+  <a href="YOUR_TWITTER_PROFILE" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter Badge"></a>
+  <a href="YOUR_WEBSITE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio Badge"></a>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue" alt="Profile Views">
+</p>
+
+<!-- Closing Note -->
+<p align="center">
+  Remember, coding is not just a skill; it's an art. Let's paint the digital canvas together!
+</p>
