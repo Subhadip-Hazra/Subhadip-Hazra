@@ -72,5 +72,5 @@
 
 <!-- GitHub Streak Stats Section -->
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-hazra&" alt="subhadip-hazra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadip-Hazra&" alt="Subhadip-Hazra" />
 </p>
