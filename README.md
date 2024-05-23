@@ -1,76 +1,93 @@
-<!-- Animated GIF -->
 <!-- Animated GIF with Box Shadow and White Border -->
 <p align="center" style="box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.6); border: 4px solid #fff; border-radius:15px;">
   <img align='center' height='60%' width='100%' alt='coding' src='https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif'>
 </p>
 
-<!-- Rest of the README content remains unchanged -->
-
-
-<h1 align="center" style="color: #6f42c1;">Hello, I'm Subhadip Hazra 🚀</h1>
+<!-- Title and Subtitle with Gradient Effect -->
+<h1 align="center" style="background: linear-gradient(90deg, rgba(111,66,193,1) 0%, rgba(0,123,255,1) 100%); -webkit-background-clip: text; color: transparent;">Hello, I'm Subhadip Hazra 🚀</h1>
 <h3 align="center" style="color: #007bff;">Crafting Digital Experiences | Full-Stack Sorcerer</h3>
 
-<!-- Badges Section -->
+## About Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-brightgreen" alt="Focus Badge">
-  <img src="https://img.shields.io/badge/Magic-Writing_Elegant_Code-blueviolet" alt="Magic Badge">
-  <img src="https://img.shields.io/badge/Tools-React,_Node.js,_Express,_MongoDB-orange" alt="Tools Badge">
-  <img src="https://img.shields.io/badge/Superpowers-Coffee_Code,_Debugging_Wizardry-yellow" alt="Superpowers Badge">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300bfff&size=25&center=true&vCenter=true&width=800&lines=Passionate+Problem-Solver+%7C+Fueled+by+Curiosity;Aspiring+Full+Stack+Developer+%7C+Innovation+Enthusiast;Thrives+in+Challenging+Environments;Committed+to+Excellence+in+Every+Project;">
 </p>
 
-<!-- About Me Section -->
-<p align="center" style="color: #333; font-size: 18px;">
-  Welcome to my magical corner of the internet! I'm on a quest to build extraordinary things with code, blending innovation and a touch of wizardry. When not coding, you'll find me sipping on coffee and exploring the realms of tech.
-</p>
+Passionate about problem-solving and fueled by curiosity, I am an aspiring Full Stack Developer eager to dive into the dynamic world of technology. With a relentless drive for learning and a knack for innovation, I thrive in challenging environments where I can contribute meaningfully and continuously grow. Ready to embark on an exciting journey of coding, creativity, and collaboration, I am committed to pushing boundaries and delivering excellence in every project I undertake.
 
-<!-- Tech Stack Section -->
-<h3 align="center" style="color: #28a745;">My Spell Book 📜</h3>
+## Features
+- **Pixel-perfect design**: The webpage closely matches the Figma design.
+- **Responsive layout**: Adapts to different screen sizes, ensuring a great experience on both desktop and mobile devices.
+- **Modern styling**: Utilizes modern CSS techniques for styling.
+- **Interactive elements**: JavaScript adds dynamic functionality to the webpage.
+
+## Working On
+- [Motion a AI powered image recognition app](https://motion-i.netlify.app/)
+- [Want to contribute send a pull request](https://github.com/Subhadip-Hazra/MOTION)
+
+<div align="center">
+
+  
+### Languages:
+| Java | HTML5 | JavaScript |
+|-----------|---------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+### Best frameworks and main libraries I use:
+
+| React.js | Tailwind CSS | Bootstrap | Rest API |
+|-------------|--------------|--------------|--------------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/>|  <img src="https://tse1.mm.bing.net/th?id=OIP.hG5pTxe85jmUCVFAV67FRQHaEb&pid=Api&P=0&h=180" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|  <img src="https://static.vecteezy.com/system/resources/previews/008/328/554/original/api-icon-style-free-vector.jpg" title="Rest API" alt="Rest API" width="55" height="55"/>|
+
+### My tools for Data Manipulation:
+
+| MongoDB | MySQL | SQL |
+|-------------|--------------|-------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" title="SQL" alt="SQL" width="55" height="55"/>|
+
+### Environments, Testing, Other:
+
+| Node.js | Git | Github | Postman |
+|---------------|-------------|----------------|---------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://tse3.mm.bing.net/th?id=OIP.C6KqIOLCzoDpottbBxmEZAHaGK&pid=Api&P=0&h=180" title="Git" alt="Git" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>
+
+</div>
+
+## Connect with Me
+<div align="center">
+  <a href="https://leetcode.com/u/IamHazra/">
+    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhadiphazra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/subhadip03031996">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</div>
+
+## Contact Me
+<div align="center">
+  <a href="https://wa.me/9339108776">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+  </a>
+  <a href="https://x.com/_subha_2002">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-ReactJS-blue" alt="ReactJS Badge">
-  <img src="https://img.shields.io/badge/Backend-Node.js,_Express-green" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/Database-MongoDB,_MySQL-yellow" alt="MongoDB Badge">
-  <img src="https://img.shields.io/badge/Languages-JavaScript,_Python,_HTML,_CSS-orange" alt="Languages Badge">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=subhadip-hazra&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<!-- Projects Section -->
-<h3 align="center" style="color: #dc3545;">Featured Spells 🪄</h3>
 <p align="center">
-  <a href="PROJECT_1_LINK" style="color: #6f42c1; font-size: 16px;"><strong>Project 1:</strong> E-Learning Website </a><br>
-  <a href="PROJECT_2_LINK" style="color: #6f42c1; font-size: 16px;"><strong>Project 2:</strong> Query Based Chatbot </a><br>
-  <!-- Add more projects as needed -->
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=subhadip-hazra&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip-hazra&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<!-- Skills Section -->
-<h3 align="center" style="color: #17a2b8;">Enchantments & Potions 🌟</h3>
-<p align="center">
-  JavaScript | React | Node.js | Express | MongoDB | HTML | CSS | Git
-</p>
 
-<!-- Let's Connect Section -->
-<h3 align="center" style="color: #007bff;">Let's Conjure Together! 🧙‍♂️</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhadiphazra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"></a>
-  <a href="https://github.com/SUBHA2OO2" target="_blank"><img src="https://img.shields.io/badge/Data_Analytics-GitHub_Projects-success" alt="Data Analytics Badge"></a>
-  <a href="https://leetcode.com/IamHazra" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Challenge_Me-orange" alt="LeetCode Badge"></a>
-  <a href="https://www.hackerrank.com/subhadip03031996" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Solve_Challenges-brightgreen" alt="HackerRank Badge"></a>
-</p>
+<!-- GitHub Profile Trophy -->
+<div align="center">
+  <img width="800" height="200" src="https://github-profile-trophy.vercel.app/?username=subhadip-hazra&theme=darkhub&column=7&margin-w=15&margin-h=15"/>
+</div>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhadip-Hazra&label=Profile+Views&color=blue" alt="Profile Views">
-</p>
 
-<!-- Closing Note -->
-<p align="center" style="color: #6c757d;">
-  Remember, coding is not just a skill; it's an art. Let's paint the digital canvas together!
-</p>
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadip-hazra&show_icons=true&locale=en" alt="subhadip-hazra" />
-</p>
-
-<!-- GitHub Streak Stats Section -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadip-Hazra&" alt="Subhadip-Hazra" />
-</p>
