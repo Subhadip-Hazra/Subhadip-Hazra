@@ -21,7 +21,7 @@ Passionate about problem-solving and fueled by curiosity, I am an aspiring Full 
 - **Interactive elements**: JavaScript adds dynamic functionality to the webpage.
 
 ## Working On
-- [Motion a AI powered image recognition app](https://motion-i.netlify.app/)
+- [MOTION -an AI powered image recognition app](https://motion-i.netlify.app/)
 - [Want to contribute send a pull request](https://github.com/Subhadip-Hazra/MOTION)
 
 <div align="center">
