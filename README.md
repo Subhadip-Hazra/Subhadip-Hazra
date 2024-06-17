@@ -34,9 +34,9 @@ Passionate about problem-solving and fueled by curiosity, I am an aspiring Full 
 
 ### Best frameworks and main libraries I use:
 
-| React.js | Tailwind CSS | Bootstrap | Rest API |
-|-------------|--------------|--------------|--------------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/>|  <img src="https://tse1.mm.bing.net/th?id=OIP.hG5pTxe85jmUCVFAV67FRQHaEb&pid=Api&P=0&h=180" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|  <img src="https://static.vecteezy.com/system/resources/previews/008/328/554/original/api-icon-style-free-vector.jpg" title="Rest API" alt="Rest API" width="55" height="55"/>|
+| React.js | Tailwind CSS | Bootstrap | Rest API | Express |
+|-------------|--------------|--------------|--------------|--------------------------------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js"  alt="React.js" width="55" height="55"/>|  <img src="https://tse1.mm.bing.net/th?id=OIP.hG5pTxe85jmUCVFAV67FRQHaEb&pid=Api&P=0&h=180" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|  <img src="https://static.vecteezy.com/system/resources/previews/008/328/554/original/api-icon-style-free-vector.jpg" title="Rest API" alt="Rest API" width="55" height="55"/>| |  <img src="https://i.postimg.cc/kgwyLw2D/icons8-express-js-48.png" title="Express" alt="Express" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 
